@@ -43,4 +43,3 @@ def get_string(cadena:str, mensaje_error:str, minimo:float, maximo:float, intent
             cadena = str(input("Reingrese la cadena a validar: "))
         else:
             return cadena
-    

@@ -10,4 +10,3 @@ def validar_rango_una_vez(numero, desde, hasta)-> float | int | None:
         return None
     else:
         return numero
-
